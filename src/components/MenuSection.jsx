@@ -72,7 +72,7 @@ export function MenuSection() {
         saleText: "₹115",
         desc: "Double ristretto with velvety micro-foam. 180ml.",
         tags: ["Velvety", "Signature"],
-        img: "/assets/FlatWhite.png",
+        img: "/assets/flatwhite.png",
       },
       {
         category: "Coffee",
@@ -184,7 +184,7 @@ export function MenuSection() {
         saleText: "₹80",
         desc: "Toasted sesame bagel with herb cream cheese spread.",
         tags: ["Vegetarian"],
-        img: "/assets/Bagel.png",
+        img: "/assets/bagel.png",
       },
       {
         category: "Snacks",
@@ -195,7 +195,7 @@ export function MenuSection() {
         saleText: "₹90",
         desc: "Toasted bread with tomato, basil, garlic, olive oil.",
         tags: ["Vegetarian", "Italian"],
-        img: "/assets/Bruschetta.png",
+        img: "/assets/bruschetta.png",
       },
 
       // ===== DESSERTS ===== (5-6 items)
@@ -230,7 +230,7 @@ export function MenuSection() {
         saleText: "₹135",
         desc: "Espresso-soaked ladyfingers, mascarpone cream, cocoa dust.",
         tags: ["Premium", "Italian"],
-        img: "/assets/Tiramisu.png",
+        img: "/assets/tiramisu.png",
       },
       {
         category: "Desserts",
@@ -241,7 +241,7 @@ export function MenuSection() {
         saleText: "₹105",
         desc: "Classic apple pie with cinnamon. Served with vanilla ice cream.",
         tags: ["Classic", "Warm"],
-        img: "/assets/ApplePie.png",
+        img: "/assets/applepie.png",
       },
       {
         category: "Desserts",
@@ -252,7 +252,7 @@ export function MenuSection() {
         saleText: "₹115",
         desc: "Moist red velvet with cream cheese frosting.",
         tags: ["Premium", "Sweet"],
-        img: "/assets/RedVelvetCake.png",
+        img: "/assets/redvelvetcake.png",
       },
       {
         category: "Desserts",
@@ -263,7 +263,7 @@ export function MenuSection() {
         saleText: "₹100",
         desc: "Tangy lemon curd in buttery pastry shell. Light and refreshing.",
         tags: ["Citrus", "Fresh"],
-        img: "/assets/LemonTart.png",
+        img: "/assets/lemontart.png",
       },
 
       // ===== DRINKS ===== (6-8 items)
@@ -287,7 +287,7 @@ export function MenuSection() {
         saleText: "₹115",
         desc: "Mixed berries, yogurt, honey. Antioxidant-rich.",
         tags: ["Healthy", "Refreshing"],
-        img: "/assets/BerrySmoothie.png",
+        img: "/assets/berrysmoothie.png",
       },
       {
         category: "Drinks",
@@ -298,7 +298,7 @@ export function MenuSection() {
         saleText: "₹60",
         desc: "Premium loose-leaf green tea. Light and aromatic.",
         tags: ["Healthy", "Hot"],
-        img: "/assets/GreenTea.png",
+        img: "/assets/greentea.png",
       },
       {
         category: "Drinks",
@@ -309,7 +309,7 @@ export function MenuSection() {
         saleText: "₹90",
         desc: "Spiced Indian masala chai with steamed milk.",
         tags: ["Spiced", "Traditional"],
-        img: "/assets/ChaiLatte.png",
+        img: "/assets/chailatte.png",
       },
       {
         category: "Drinks",
@@ -320,7 +320,7 @@ export function MenuSection() {
         saleText: "₹95",
         desc: "Rich Belgian chocolate with steamed milk. Topped with cream.",
         tags: ["Chocolate", "Comfort"],
-        img: "/assets/HotChocolate.png",
+        img: "/assets/hotchocolate.png",
       },
       {
         category: "Drinks",
@@ -331,7 +331,7 @@ export function MenuSection() {
         saleText: "₹55",
         desc: "Freshly squeezed lime with soda water. Sweet or salted.",
         tags: ["Refreshing", "Summer"],
-        img: "/assets/LimeSoda.png",
+        img: "/assets/limesoda.png",
       },
       {
         category: "Drinks",
@@ -342,7 +342,7 @@ export function MenuSection() {
         saleText: "₹70",
         desc: "Chilled black tea with lemon and mint. Lightly sweetened.",
         tags: ["Iced", "Refreshing"],
-        img: "/assets/IcedTea.png",
+        img: "/assets/icedtea.png",
       },
       {
         category: "Drinks",
@@ -353,7 +353,7 @@ export function MenuSection() {
         saleText: "₹80",
         desc: "Freshly squeezed oranges. No added sugar. 250ml.",
         tags: ["Fresh", "Healthy"],
-        img: "/assets/OrangeJuice.png",
+        img: "/assets/orangejuice.png",
       },
     ],
     [isSaleActive]
